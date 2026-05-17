@@ -3,6 +3,8 @@
 </p>
 # Hi there, I'm Jimuel Y. Salenga! 👋
 
+<h1 align="center">Hi there, Jimuel Y. Salenga! 👋</h1>
+
 ### 👨‍💻 About Me
 I am Jimuel Y. Salenga, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Information Technology program.
 
