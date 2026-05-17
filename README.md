@@ -1,9 +1,7 @@
 <p align="center">
   <img src="https://lh3.googleusercontent.com/a/ACg8ocLzMBLkP4GslgXF4OmiVb7u6RDqNXQ7U2ORIcfbYMYeC2u2sLc=s288-c-no" alt="Jimuel Y. Salenga" width="200" style="border-radius: 50%;"/>
 </p>
-# Hi there, I'm Jimuel Y. Salenga! 👋
-
-<h1 align="center">Hi there, Jimuel Y. Salenga! 👋</h1>
+<h1 align="center">Hi there,I'm Jimuel Y. Salenga! 👋</h1>
 
 ### 👨‍💻 About Me
 I am Jimuel Y. Salenga, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Information Technology program.
